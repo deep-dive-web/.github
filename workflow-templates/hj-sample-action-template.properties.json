@@ -1,0 +1,13 @@
+{
+    "name": "HJ's Sample Action Workflow",
+    "description": "GitHub Action Studyworkflow template from HJ.",
+    "iconName": "Amazon_logo",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
