@@ -3,7 +3,7 @@
     "description": "GitHub Action Studyworkflow template from HJ.",
     "iconName": "Amazon_logo",
     "categories": [
-        "Go"
+        "JavaScript"
     ],
     "filePatterns": [
         "package.json$",
