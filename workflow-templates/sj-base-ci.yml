@@ -1,4 +1,4 @@
-name: Github Actions Study
+name: Github Actions Study - Sujin
 
 on:
   push:
