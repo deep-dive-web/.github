@@ -1,7 +1,7 @@
 {
   "name": "Github Actions Study Workflow",
   "description": "Github Actions CI workflow template.",
-  "iconName": "example-icon",
+  "iconName": "sj-example-icon",
   "categories": [
       "Go"
   ],
