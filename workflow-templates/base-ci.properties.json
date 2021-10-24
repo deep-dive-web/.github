@@ -1,0 +1,13 @@
+{
+  "name": "Github Actions Study Workflow",
+  "description": "Github Actions CI workflow template.",
+  "iconName": "example-icon",
+  "categories": [
+      "Go"
+  ],
+  "filePatterns": [
+      "package.json$",
+      "^Dockerfile",
+      ".*\\.md$"
+  ]
+}
